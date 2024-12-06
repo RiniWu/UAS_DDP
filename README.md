@@ -1,7 +1,7 @@
 # Pembelian_Toko_Online_Fashion_Riwuu'z
 
 
-##*Penjelasan Fitur Fitur :*##
+## *Penjelasan Fitur Fitur :*
 1. User
 
    Dibedakan menjadi dua user yaitu 'Member Biasa' dan 'VIP', yang dimana memiliki beberapa perbedaan dari penggunaan user salah satunya adalah saldo awal yang didapatkan untuk member biasa memiliki saldo awal "100 Gems" dan VIP memiliki "300 Gems".
